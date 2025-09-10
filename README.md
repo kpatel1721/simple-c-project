@@ -1,1 +1,1 @@
-# simple-c-project
+# simple-c-project for ECE 321L
